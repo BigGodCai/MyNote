@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\anim\\padclosein.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\anim\\padclosein.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\anim\\pophidden.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\anim\\padopenin.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\anim\\padopenin.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\anim\\padcloseout.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\anim\\padcloseout.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\anim\\popshow.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\anim\\padopenout.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\anim\\padopenout.xml"
+    }
+]

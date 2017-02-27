@@ -1,0 +1,618 @@
+[
+    {
+        "outputFile": "E:\\AS\\MyNote\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 50,
+                    "endOffset": 156
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 161,
+                    "endColumn": 41,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 50,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 54,
+                    "endOffset": 304
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 309,
+                    "endColumn": 40,
+                    "endOffset": 345
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 350,
+                    "endColumn": 43,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 41,
+                    "endOffset": 431
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\color.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 436,
+                    "endColumn": 50,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 53,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 50,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 57,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 55,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endColumn": 36,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endColumn": 37,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 41,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endColumn": 40,
+                    "endOffset": 859
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 864,
+                    "endColumn": 47,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 52,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 37,
+                    "endOffset": 998
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1003,
+                    "endColumn": 40,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 37,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 35,
+                    "endOffset": 1113
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1118,
+                    "endColumn": 42,
+                    "endOffset": 1156
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1161,
+                    "endColumn": 43,
+                    "endOffset": 1200
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1205,
+                    "endColumn": 38,
+                    "endOffset": 1239
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1244,
+                    "endColumn": 37,
+                    "endOffset": 1277
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1282,
+                    "endColumn": 37,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 47,
+                    "endOffset": 1363
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1368,
+                    "endColumn": 37,
+                    "endOffset": 1401
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1406,
+                    "endColumn": 47,
+                    "endOffset": 1449
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1454,
+                    "endColumn": 46,
+                    "endOffset": 1496
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1501,
+                    "endColumn": 47,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endColumn": 40,
+                    "endOffset": 1585
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1590,
+                    "endColumn": 60,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1445,
+                        "endColumn": 60,
+                        "endOffset": 1501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endColumn": 68,
+                    "endOffset": 1715
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1720,
+                    "endColumn": 67,
+                    "endOffset": 1783
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1788,
+                    "endColumn": 73,
+                    "endOffset": 1857
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1862,
+                    "endColumn": 68,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1931,
+                    "endColumn": 44,
+                    "endOffset": 1971
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1976,
+                    "endColumn": 45,
+                    "endOffset": 2017
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2022,
+                    "endColumn": 41,
+                    "endOffset": 2059
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2064,
+                    "endColumn": 49,
+                    "endOffset": 2109
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2114,
+                    "endColumn": 40,
+                    "endOffset": 2150
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2155,
+                    "endColumn": 61,
+                    "endOffset": 2212
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2217,
+                    "endColumn": 50,
+                    "endOffset": 2263
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2268,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 2505
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2510,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 2750
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2755,
+                    "endLine": 62,
+                    "endColumn": 12,
+                    "endOffset": 3073
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3078,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 3257
+                },
+                "from": {
+                    "file": "E:\\AS\\MyNote\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

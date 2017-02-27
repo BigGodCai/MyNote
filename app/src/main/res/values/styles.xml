@@ -1,0 +1,30 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <style name="AppTheme" parent="AppBaseTheme"></style>
+
+    <style name="popstyle">
+        <item name="android:windowEnterAnimation">@anim/popshow</item>
+        <item name="android:windowExitAnimation">@anim/pophidden</item>
+    </style>
+
+    <!-- 自定义动画主题 -->
+    <style name="ThemeActivity" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/Padstyle</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+
+    <style name="Padstyle" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/padopenin</item>
+        <item name="android:activityOpenExitAnimation">@anim/padopenout</item>
+    </style>
+    <!-- ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -->
+    <style name="account_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/account_item_height</item>
+        <item name="android:layout_marginLeft">@dimen/margin</item>
+        <item name="android:layout_marginRight">@dimen/margin</item>
+
+    </style>
+</resources>

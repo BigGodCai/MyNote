@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="account_background">#FFF6F6F6</color>
+    <color name="background_top">#ff1696DF</color>
+    <color name="black">#ff000000</color>
+    <color name="button_pressed">#ff289EDD</color>
+    <color name="button_pressed_not">#ff000000</color>
+    <color name="line">#ffdcdcdc</color>
+    <color name="popback">#b0000000</color>
+    <color name="white">#ffffffff</color>
+    <dimen name="account_item_height">60dp</dimen>
+    <dimen name="account_item_margintop">15dp</dimen>
+    <dimen name="account_item_width">270dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="corner">8dp</dimen>
+    <dimen name="margin">20dp</dimen>
+    <dimen name="typechoose">20sp</dimen>
+    <string name="account">我的账户</string>
+    <string name="account_choose">账户选择</string>
+    <string name="action_settings">Settings</string>
+    <string name="amount">金额</string>
+    <string name="app_name">随手记</string>
+    <string name="bill">我的账单</string>
+    <string name="cash">现金</string>
+    <string name="creditcard">信用卡</string>
+    <string name="depositcard">储蓄卡</string>
+    <string name="expense">支出</string>
+    <string name="income">收入</string>
+    <string name="login">登 录</string>
+    <string name="login_directly">直接登录</string>
+    <string name="normal">一般</string>
+    <string name="not_have_user">没有账号?</string>
+    <string name="pass_word">密\u3000码</string>
+    <string name="passowrd_hint">请输入密码</string>
+    <string name="text_pad">记事簿</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_in_or_out">InOrOutActivity</string>
+    <string name="title_activity_text_pad">TextPadActivity</string>
+    <string name="title_activity_text_record">TextRecordActivity</string>
+    <string name="title_activity_transfer">TransferActivity</string>
+    <string name="transfer_in">转入账户</string>
+    <string name="transfer_out">转出账户</string>
+    <string name="user_name">用户名</string>
+    <string name="user_name_hint">请输入用户名</string>
+    <string name="zhifubao">支付宝</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme"/>
+    <style name="Padstyle" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/padopenin</item>
+        <item name="android:activityOpenExitAnimation">@anim/padopenout</item>
+    </style>
+    <style name="ThemeActivity" parent="@android:style/Theme.Holo.Light.NoActionBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/Padstyle</item>
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+    <style name="account_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/account_item_height</item>
+        <item name="android:layout_marginLeft">@dimen/margin</item>
+        <item name="android:layout_marginRight">@dimen/margin</item>
+
+    </style>
+    <style name="popstyle">
+        <item name="android:windowEnterAnimation">@anim/popshow</item>
+        <item name="android:windowExitAnimation">@anim/pophidden</item>
+    </style>
+</resources>

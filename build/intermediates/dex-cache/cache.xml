@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AS\MyNote\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9930a20fb9d1806cb7b613c89f554e2e666b1cf8">
+        <dex dex="E:\AS\MyNote\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_199e615c15dfa6e2294710485b9447ea2d245a45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Sdk\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\AS\MyNote\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_d4753e75e5b593a24e0987c87747de948e8f924b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AS\MyNote\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c692191255b588a4037324f0aff27286c31360f">
+        <dex dex="E:\AS\MyNote\app\build\intermediates\pre-dexed\debug\instant-run_74d71bad059269e6146e2f6ec81ca816dd213061.jar" />
+    </item>
+
+</items>

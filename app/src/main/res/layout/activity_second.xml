@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/scroll_bar" >
+    </android.support.v4.view.ViewPager>
+
+    <ImageView
+        android:id="@+id/scroll_bar"
+        android:layout_above="@+id/temp_view"
+        android:layout_height="3dp"
+        android:layout_width="100dp"
+        android:background="@drawable/new_slide_bar" />
+
+    <View
+        android:id="@+id/temp_view"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@+id/linearlayout_button"
+        android:background="@color/line" />
+
+    <LinearLayout
+        android:id="@+id/linearlayout_button"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/button_textpad"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/text_pad" />
+
+        <Button
+            android:id="@+id/button_bill"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/bill" />
+
+        <Button
+            android:id="@+id/button_account"
+            style="?android:attr/buttonBarButtonStyle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/account" />
+    </LinearLayout>
+
+</RelativeLayout>

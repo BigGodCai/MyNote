@@ -1,0 +1,130 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/white_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:baselineAligned="false"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="right|center_vertical" >
+
+            <Button
+                android:id="@+id/button_expense"
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:background="@drawable/boy_selected"
+                android:text="支出"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="left|center_vertical" >
+
+            <Button
+                android:id="@+id/button_income"
+                android:layout_width="80dp"
+                android:layout_height="30dp"
+                android:background="@drawable/girl_not_selected"
+                android:text="收入"
+                android:textColor="@color/black"
+                android:textSize="12sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/line" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <ImageView
+            android:id="@+id/imageview_icon"
+            android:layout_width="37dp"
+            android:layout_height="37dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/type_big_1" />
+
+        <TextView
+            android:id="@+id/textview_iconname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="@string/normal" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.1dp"
+        android:background="@color/line" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/viewtemp"
+            android:numColumns="4"
+            android:verticalSpacing="4dp" >
+        </GridView>
+
+        <View
+            android:id="@+id/viewtemp"
+            android:layout_width="match_parent"
+            android:layout_height="0.1dp"
+            android:layout_above="@+id/li"
+            android:background="@color/line" />
+
+        <LinearLayout
+            android:id="@+id/li"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_above="@+id/inclu"
+            android:gravity="center_vertical"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="60dp"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bg_round_rectangle"
+                android:gravity="center"
+                android:text="@string/cash" />
+
+            <TextView
+                android:id="@+id/textview_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" 
+                android:text="0"/>
+        </LinearLayout>
+
+        <include
+            android:id="@+id/inclu"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:layout_alignParentBottom="true"
+            layout="@layout/calculator" />
+    </RelativeLayout>
+
+</LinearLayout>

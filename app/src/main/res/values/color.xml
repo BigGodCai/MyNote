@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="button_pressed">#ff289EDD</color>
+    <color name="button_pressed_not">#ff000000</color>
+    <color name="background_top">#ff1696DF</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+    <color name="line">#ffdcdcdc</color>
+    <color name="account_background">#FFF6F6F6</color>
+    <color name="popback">#b0000000</color>
+
+</resources>

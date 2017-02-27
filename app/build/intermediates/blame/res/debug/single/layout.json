@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calculator.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\calculator.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bill.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\item_bill.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_choices.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\pop_choices.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_text_pad.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\activity_text_pad.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_textpad.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\item_textpad.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\item_grid.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_in_or_out.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\activity_in_or_out.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transfer.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\activity_transfer.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bill.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\fragment_bill.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_textpad.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\fragment_textpad.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_account.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "E:\\AS\\MyNote\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "E:\\AS\\MyNote\\app\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]
